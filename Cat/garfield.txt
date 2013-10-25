@@ -1,1 +1,2 @@
-garfield
+Garfield
+Garfield has a friend.
