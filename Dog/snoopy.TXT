@@ -1,4 +1,4 @@
 Snoopy
 Snoopy has a friend. His name is Charlie Brown.
 
-Dog must won.
+Dog must won. Dog has won-ed.
